@@ -1,2 +1,4 @@
-/.vagrant/
-/tmp/
+.vagrant/
+tmp/
+
+*.yml
